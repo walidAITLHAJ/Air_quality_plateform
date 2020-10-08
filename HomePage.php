@@ -1,4 +1,13 @@
-
+<?php
+session_start(); 
+try {
+  $bdd =new pdo("mysql:host=localhost;port=3306;dbname=qair","root","");
+  } catch (PDOException $e) {
+     echo 'Connexion échouée : ' . $e->getMessage();
+ }
+ $req1=$bdd->query("select * from ville");
+ $result1=$req1->fetchAll();
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
