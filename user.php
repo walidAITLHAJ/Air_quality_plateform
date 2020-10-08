@@ -380,29 +380,8 @@ function chart(id_polluant){
     error: function(data) {
       console.log(data);
 
-}
-
-
-      
-      
-    
+}    
  });}
-
-
-
-
-
-
-
-
-
-
-
-       
-        
-          
-
-
 
       
     </script>
