@@ -4,10 +4,10 @@
 <br>
 
 <p align="center">
-<img src="https://img.shields.io/github/license/choubari/Commandline-Games-hacktoberfest"/>
-<img src="https://img.shields.io/github/forks/choubari/Commandline-Games-hacktoberfest"/>
-<img src="https://img.shields.io/github/contributors/choubari/Commandline-Games-hacktoberfest"/>    
-<img src="https://img.shields.io/github/last-commit/choubari/Commandline-Games-hacktoberfest"/>
+<img src="https://img.shields.io/github/license/walidAITLHAJ/Air_quality_plateform"/>
+<img src="https://img.shields.io/github/forks/walidAITLHAJ/Air_quality_plateform"/>
+<img src="https://img.shields.io/github/contributors/walidAITLHAJ/Air_quality_plateform"/>    
+<img src="https://img.shields.io/github/last-commit/walidAITLHAJ/Air_quality_plateform"/>
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99"/>    
 </p>
 
@@ -29,7 +29,7 @@ We prefer well documented code, please read the [CONTRIBUTING.md](https://github
 3. Clone the project to your local machine
 
 ```sh
-git clone https://github.com/this-is-you/Commandline-Games-hacktoberfest.git
+git clone https://github.com/walidAITLHAJ/Air_quality_plateform.git
 
 #where this-is-you is your GitHub username
 ```
